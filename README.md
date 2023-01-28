@@ -7,10 +7,15 @@ Discovery Piscine 42 Malaga [23/01/23 - 27/01/23]
 Cell 00 - Shell
 
 C0.0[![agil-rey's 42 Cellule0.0 - Shell Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2944323)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell0)
+
 C0.1[![agil-rey's 42 Cellule0.1 - Shell Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2944758)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell0/ex01)
+
 C0.2[![agil-rey's 42 Cellule0.2 - Shell Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2944996)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell0/ex02)
+
 C0.3[![agil-rey's 42 Cellule0.3 - Shell Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2946155)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell0/ex03)
+
 C0.4[![agil-rey's 42 Cellule0.4 - Shell Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2946726)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell0/ex04)
+
 C0.5[![agil-rey's 42 Cellule0.5 - Shell Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2946828)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell0/ex05)
 
 Cell 01 - HTML & CSS
