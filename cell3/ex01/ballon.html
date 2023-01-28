@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>ballon</title>
+	<script>
+		//Cambio de color
+		colors = ['red', 'green', 'blue'];
+		let colorIndex  = 0;
+
+		//Funcion que hace mas grande el globo y cambia los colores
+		function plus(ballon)
+		{
+			if (ballon.style.width < "420")
+			{
+				ballon.style.width = (ballon.offsetWidth + 10) + "px";
+				ballon.style.height = (ballon.offsetHeight + 10) + "px";
+				colorIndex = (colorIndex + 1) % colors.length;
+				ballon.style.backgroundColor = colors[colorIndex];
+			}
+			else
+			{
+				ballon.style.width = "200px";
+				ballon.style.height = "200px";	
+			}
+		}
+
+		//Funcion que hace mas pequeño el globo y cambia los colores
+		function minus(ballon)
+		{
+			if (ballon.style.width >= "205")
+			{
+				ballon.style.width = (ballon.offsetWidth - 5) + "px";
+				ballon.style.height = (ballon.offsetHeight - 5) + "px";
+				if (colorIndex == 0)
+					colorIndex = 2;
+				else
+					colorIndex = (colorIndex - 1);
+				console.log(colorIndex);
+				ballon.style.backgroundColor = colors[colorIndex];
+			}
+		}
+	</script>
+	<style>
+		#ballon {
+			width: 200px;
+			height: 200px;
+			border-radius: 50%;
+			background-color: red;
+			margin: auto;
+		}
+
+		h1 {
+			text-align: center;
+		}
+
+		body {
+			background-color: rgb(159, 238, 238);
+		}
+	</style>
+</head>
+<body>
+	<h1>Cuidado con mi globo</h1>
+	<div id="ballon" onclick="plus(this)" onmouseout="minus(this)">
+
+	</div>
+</body>
+</html>

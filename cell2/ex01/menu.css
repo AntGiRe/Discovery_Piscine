@@ -1,0 +1,30 @@
+.content {
+	display: none;
+	background-color: white;
+}
+
+.menu {
+	width: 20%;
+}
+
+.menu:hover .content{
+	display: block;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: lightblue;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.title {
+	margin-bottom: 5px;
+}

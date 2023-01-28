@@ -1,0 +1,47 @@
+img {
+	width: 100%;
+}
+
+.flower {
+	background-image: url("img1.jpeg");
+}
+
+.hand {
+	background-image: url("img2.jpeg");
+}
+
+.parallax {
+
+	min-height: 500px;
+
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.centered-text {
+    text-align: center;
+	color: white;
+	font-size: 70px;
+	margin: 0;
+	padding-top: 3em;
+}
+
+body {
+	margin: 0;
+}
+
+.card {
+	background-color: black;
+	height: 700px;
+	width: 100%;
+	color: white;
+	text-align: center;
+}
+
+.card p {
+	margin: 0;
+	padding-top: 20em;
+	font-size: 20px;
+}

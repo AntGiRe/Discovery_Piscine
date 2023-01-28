@@ -1,0 +1,39 @@
+body {
+	background-color: aliceblue;
+}
+
+.area {
+	margin: 0 auto;
+	width: 30%;
+	text-align: center;
+}
+
+.card {
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+	background-color: white;
+}
+
+.login {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+table {
+	margin: auto;
+	font-size: 30px;
+}
+
+.img_perfil {
+	width: 100%;
+}
+
+.btn {
+	background-color: black;
+	color: white;
+	text-decoration: underline;
+}
+
+.btn p {
+	padding: 0.4em;
+	font-size: 30px;
+}
