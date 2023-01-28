@@ -5,6 +5,7 @@ Discovery Piscine 42 Malaga [23/01/23 - 27/01/23]
 [![agil-rey's 42 stats](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/stats?cursusId=3&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 Cell 00 - Shell
+
 [![agil-rey's 42 Cellule0.0 - Shell Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2944323)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell0)
 [![agil-rey's 42 Cellule0.1 - Shell Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2944758)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell0/ex01)
 [![agil-rey's 42 Cellule0.2 - Shell Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2944996)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell0/ex02)
@@ -14,13 +15,13 @@ Cell 00 - Shell
 
 Cell 01 - HTML & CSS
 
-[![agil-rey's 42 Cellule1.0 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2946484)](https://github.com/JaeSeoKim/badge42)
-[![agil-rey's 42 Cellule1.1 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2946580)](https://github.com/JaeSeoKim/badge42)
-[![agil-rey's 42 Cellule1.2 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2946744)](https://github.com/JaeSeoKim/badge42)
-[![agil-rey's 42 Cellule1.3 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2948533)](https://github.com/JaeSeoKim/badge42)
-[![agil-rey's 42 Cellule1.4 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2949009)](https://github.com/JaeSeoKim/badge42)
-[![agil-rey's 42 Cellule1.5 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2949956)](https://github.com/JaeSeoKim/badge42)
-[![agil-rey's 42 Cellule1.6 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2950324)](https://github.com/JaeSeoKim/badge42)
+[![agil-rey's 42 Cellule1.0 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2946484)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell1/ex00)
+[![agil-rey's 42 Cellule1.1 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2946580)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell1/ex01)
+[![agil-rey's 42 Cellule1.2 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2946744)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell1/ex02)
+[![agil-rey's 42 Cellule1.3 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2948533)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell1/ex03)
+[![agil-rey's 42 Cellule1.4 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2949009)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell1/ex04)
+[![agil-rey's 42 Cellule1.5 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2949956)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell1/ex05)
+[![agil-rey's 42 Cellule1.6 - Web Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2950324)](https://github.com/AntGiRe/Discovery_Piscine/tree/main/cell1/ex05)
 
 Cell 02 - HTML & CSS
 
